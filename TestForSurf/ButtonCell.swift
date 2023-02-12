@@ -33,7 +33,6 @@ class ButtonCell: UICollectionViewCell {
         button.trailingAnchor.constraint(equalTo: trailingAnchor).isActive = true
         button.topAnchor.constraint(equalTo: topAnchor).isActive = true
         button.bottomAnchor.constraint(equalTo: bottomAnchor).isActive = true
-        
     }
     
     @objc func makeChoice() {

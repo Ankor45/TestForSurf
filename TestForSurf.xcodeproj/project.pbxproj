@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		755A8AD22998C0620060F5D3 /* ComeOnView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 755A8AD12998C0620060F5D3 /* ComeOnView.swift */; };
 		7570E4B729979C0A00BBF3A2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7570E4B629979C0A00BBF3A2 /* AppDelegate.swift */; };
 		7570E4B929979C0A00BBF3A2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7570E4B829979C0A00BBF3A2 /* SceneDelegate.swift */; };
 		7570E4BB29979C0A00BBF3A2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7570E4BA29979C0A00BBF3A2 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		755A8AD12998C0620060F5D3 /* ComeOnView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComeOnView.swift; sourceTree = "<group>"; };
 		7570E4B329979C0A00BBF3A2 /* TestForSurf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestForSurf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7570E4B629979C0A00BBF3A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7570E4B829979C0A00BBF3A2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				7570E4D229984C9E00BBF3A2 /* ButtonScrollView.swift */,
 				7570E4D62998527400BBF3A2 /* ButtonCell.swift */,
 				7570E4D429984E5600BBF3A2 /* CourseButtons.swift */,
+				755A8AD12998C0620060F5D3 /* ComeOnView.swift */,
 				7570E4BC29979C0A00BBF3A2 /* Main.storyboard */,
 				7570E4BF29979C0E00BBF3A2 /* Assets.xcassets */,
 				7570E4C129979C0E00BBF3A2 /* LaunchScreen.storyboard */,
@@ -153,6 +156,7 @@
 				7570E4B929979C0A00BBF3A2 /* SceneDelegate.swift in Sources */,
 				7570E4D329984C9E00BBF3A2 /* ButtonScrollView.swift in Sources */,
 				7570E4D72998527400BBF3A2 /* ButtonCell.swift in Sources */,
+				755A8AD22998C0620060F5D3 /* ComeOnView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
